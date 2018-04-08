@@ -1,0 +1,227 @@
+html, body{
+	margin:0px;
+	background-image: url("../images/hand-coffee.jpg");
+	background-size: cover;
+	font-family: sans-serif;
+}
+
+#header{
+	height: 170px;
+	
+	background-color: rgba(37, 56, 86, 0.6);
+	
+
+
+}
+
+#titlebody{
+	height: 60px;
+	width: 90%;
+	margin-left: 5%;
+	border: 3px solid black;
+	margin-top: 20px;
+	text-align: center;
+	padding-top: 22px;
+	border-radius: 30px;
+	text-transform: uppercase bold;
+	font-size: 30px;
+	background-color: rgba(37, 56, 86, 0.5);
+	
+
+
+
+
+}
+
+#navbar{
+	
+	height: 50px;
+	
+
+}
+
+
+#bomain{
+	padding-top: 30px;
+	padding-left: 40px;
+	padding-right: 40px;
+
+
+}
+
+#logo{
+	height: 130px;
+
+
+
+
+
+
+}
+#article{
+	height: 500px;
+	padding-left: 50px;
+	padding-top: 30px;
+	color: white;
+	font-size: 25px;
+	width: 1130px;
+	padding-right: 30px;
+	box-sizing: border-box;
+	float: left;
+	background-color: rgba(67, 51, 124, 0.6);
+	border-radius: 18px;
+	border: 3px solid rgba(126, 22, 140, 0.7);
+
+}
+
+#sidebar{
+
+	
+	height: 500px;
+	width: 390px;
+	float: right;
+	background-color: rgba(67, 51, 124, 0.6);
+	border-radius: 12px;
+	border: 3px solid rgba(126, 22, 140, 0.7);
+	
+
+}
+
+#footer{
+	
+	height: 80px;
+	position: absolute;
+	margin-top: 32%;
+	width: 100%;
+	background-color: rgba(16, 5, 53, 0.7);
+	color: white;
+	padding-top: 30px;
+	text-align: center;
+
+
+}
+
+#backtotop{
+	height: 50px;
+	width: 50px;
+	
+	border-radius: 50px;
+	float: right;
+	margin-right: 40px;
+	background-image: url("../images/top1.png");
+	background-size: cover;
+
+
+
+}
+
+
+
+#backtotop:hover{
+	background-image: url("../images/top2.png");
+	background-size: cover;	
+
+
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid grey;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+a{
+
+
+}
+.active{
+
+	background-color: #4a6389;
+	float: right;
+
+}
+
+
+#sidebarform{
+	padding-left: 70px;
+	color: white;
+	font-size: 20px;
+
+
+
+}
+
+input{
+	border: 0px;
+	height: 30px;
+	padding-left: 8px;
+	border-radius: 6px;
+
+
+
+
+}
+
+h3{
+	color: white;
+	text-transform: uppercase;
+}
+
+
+input:hover{
+
+
+	border: 1px solid black;
+	border-radius: 10px;
+}
+#submit{
+
+
+	margin-left: 80px;
+	border: 0px;
+	background-color: rgb(138, 127, 150);
+	color: white;
+	height: 50px;
+	width: 100px;
+	border-radius: 8px;
+
+}
+
+#submit:hover{
+	background-color: rgb(179, 148, 211);
+	border-radius: 15px;
+}
+
+
+
+
+/* COLOR CODES:
+
+		5d5c61  379683  7395AE  557A95  B1A296;
+
+		*/
